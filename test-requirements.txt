@@ -2,6 +2,6 @@
 # tests with new APIs/semantics. We want to update versions deliberately.
 
 # flake8 must be listed before pylint to avoid dependency conflicts
-pylint==1.6.5
+pylint==2.5.0
 setuptools-lint==0.5.2
 yamllint==1.6.1
